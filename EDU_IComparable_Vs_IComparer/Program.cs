@@ -6,7 +6,7 @@ namespace EDU_IComparable_Vs_IComparer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("RUN TESTS!");
         }
     }
 }
